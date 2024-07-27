@@ -1,7 +1,7 @@
 ## Hello you fine person
 
 
-- 💡  I write code, not the good type but code
+- 💡  I write (terrible) code
 - 👨‍🎓  University of Tampere enthusiast
 - 💻 [BFC](https://github.com/Tacomies/brainfuck) is my proudest creation
 - ❌ If a repo of mine went private, I probably found it terrible
