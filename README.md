@@ -2,7 +2,7 @@
 
 
 - 💡  I write (terrible) code
-- 👨‍🎓  University of Tampere enthusiast
+- 👨‍🎓  Tampere University enthusiast
 - 💻 [BFC](https://github.com/Tacomies/brainfuck) is my proudest creation
 - ❌ If a repo of mine went private, I probably found it terrible
 - 👍 I prefer working in C 
